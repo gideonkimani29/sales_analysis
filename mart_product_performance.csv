@@ -1,0 +1,78 @@
+product_id,product_name,category_name,supplier_name,supplier_country,times_ordered,total_units_sold,total_revenue,avg_discount_pct,is_discontinued
+38,Cte de Blaye,Beverages,Aux joyeux ecclsiastiques,France,24,623,149984.2,0.0,0
+29,Thringer Rostbratwurst,Meat/Poultry,Plutzer Lebensmittelgromrkte AG,Germany,32,746,87736.4,0.0,1
+59,Raclette Courdavault,Dairy Products,Gai pturage,France,54,1496,76296.0,0.0,0
+60,Camembert Pierrot,Dairy Products,Gai pturage,France,51,1577,50286.0,0.0,0
+62,Tarte au sucre,Confections,Forts d'rables,Canada,48,1083,49827.9,0.0,0
+56,Gnocchi di nonna Alice,Grains/Cereals,Pasta Buttini s.r.l.,Italy,50,1263,45121.2,0.0,0
+51,Manjimup Dried Apples,Produce,"G'day, Mate",Australia,39,886,44742.6,0.0,0
+17,Alice Mutton,Meat/Poultry,"Pavlova, Ltd.",Australia,37,978,35482.2,0.0,1
+18,Carnarvon Tigers,Seafood,"Pavlova, Ltd.",Australia,27,539,31987.5,0.0,0
+28,Rssle Sauerkraut,Produce,Plutzer Lebensmittelgromrkte AG,Germany,33,640,26865.6,0.0,1
+72,Mozzarella di Giovanni,Dairy Products,Formaggi Fortini s.r.l.,Italy,38,806,25738.8,0.0,0
+43,Ipoh Coffee,Beverages,Leka Trading,Singapore,28,580,25079.2,0.0,0
+69,Gudbrandsdalsost,Dairy Products,Norske Meierier,Norway,31,714,24307.2,0.0,0
+20,Sir Rodney's Marmalade,Confections,"Specialty Biscuits, Ltd.",UK,16,313,23635.8,0.0,0
+64,Wimmers gute Semmelkndel,Grains/Cereals,Plutzer Lebensmittelgromrkte AG,Germany,30,740,23009.0,0.0,0
+7,Uncle Bob's Organic Dried Pears,Produce,Grandma Kelly's Homestead,USA,29,763,22464.0,0.0,0
+10,Ikura,Seafood,Tokyo Traders,Japan,33,742,22140.2,0.0,0
+26,Gumbr Gummibrchen,Confections,Heli Swaren GmbH & Co. KG,Germany,32,753,21534.9,0.0,0
+53,Perth Pasties,Meat/Poultry,"G'day, Mate",Australia,30,722,21510.2,0.0,1
+71,Flotemysost,Dairy Products,Norske Meierier,Norway,42,1057,20876.5,0.0,0
+55,Pt chinois,Meat/Poultry,Ma Maison,Canada,33,903,19512.0,0.0,0
+40,Boston Crab Meat,Seafood,New England Seafood Cannery,USA,41,1103,19048.3,0.0,0
+16,Pavlova,Confections,"Pavlova, Ltd.",Australia,43,1158,18748.05,0.0,0
+2,Chang,Beverages,Exotic Liquids,UK,44,1057,18559.2,0.0,0
+63,Vegie-spread,Condiments,"Pavlova, Ltd.",Australia,17,445,17696.3,0.0,0
+76,Lakkalikri,Beverages,Karkki Oy,Finland,39,981,16794.0,0.0,0
+61,Sirop d'rable,Condiments,Forts d'rables,Canada,24,603,16438.8,0.0,0
+31,Gorgonzola Telino,Dairy Products,Formaggi Fortini s.r.l.,Italy,51,1397,16172.5,0.0,0
+27,Schoggi Schokolade,Confections,Heli Swaren GmbH & Co. KG,Germany,9,365,15231.5,0.0,0
+30,Nord-Ost Matjeshering,Seafood,Nord-Ost-Fisch Handelsgesellschaft mbH,Germany,32,612,14775.54,0.0,0
+65,Louisiana Fiery Hot Pepper Sauce,Condiments,New Orleans Cajun Delights,USA,32,745,14607.0,0.0,0
+36,Inlagd Sill,Seafood,Svensk Sjfda AB,Sweden,31,805,14542.6,0.0,0
+35,Steeleye Stout,Beverages,Bigfoot Breweries,USA,36,883,14536.8,0.0,0
+1,Chai,Beverages,Exotic Liquids,UK,38,828,14277.6,0.0,0
+11,Queso Cabrales,Dairy Products,Cooperativa de Quesos 'Las Cabras',Spain,38,706,13902.0,0.0,0
+8,Northwoods Cranberry Sauce,Condiments,Grandma Kelly's Homestead,USA,13,372,13760.0,0.0,0
+39,Chartreuse verte,Beverages,Aux joyeux ecclsiastiques,France,30,793,13150.8,0.0,0
+12,Queso Manchego La Pastora,Dairy Products,Cooperativa de Quesos 'Las Cabras',Spain,14,344,12866.8,0.0,0
+70,Outback Lager,Beverages,"Pavlova, Ltd.",Australia,39,817,11472.0,0.0,0
+44,Gula Malacca,Condiments,Leka Trading,Singapore,24,601,10524.2,0.0,0
+77,Original Frankfurter grne Soe,Condiments,Plutzer Lebensmittelgromrkte AG,Germany,38,791,9685.0,0.0,0
+21,Sir Rodney's Scones,Confections,"Specialty Biscuits, Ltd.",UK,39,1016,9636.0,0.0,0
+49,Maxilaku,Confections,Karkki Oy,Finland,21,520,9500.0,0.0,0
+4,Chef Anton's Cajun Seasoning,Condiments,New Orleans Cajun Delights,USA,20,453,9424.8,0.0,0
+68,Scottish Longbreads,Confections,"Specialty Biscuits, Ltd.",UK,34,799,9362.5,0.0,0
+42,Singaporean Hokkien Fried Mee,Grains/Cereals,Leka Trading,Singapore,30,697,9332.4,0.0,1
+32,Mascarpone Fabioli,Dairy Products,Formaggi Fortini s.r.l.,Italy,15,297,9171.2,0.0,0
+41,Jack's New England Clam Chowder,Seafood,New England Seafood Cannery,USA,47,981,9098.1,0.0,0
+9,Mishi Kobe Niku,Meat/Poultry,Tokyo Traders,Japan,5,95,8827.0,0.0,1
+75,Rhnbru Klosterbier,Beverages,Plutzer Lebensmittelgromrkte AG,Germany,46,1155,8650.55,0.0,0
+14,Tofu,Produce,Mayumi's,Japan,22,404,8630.4,0.0,0
+57,Ravioli Angelo,Grains/Cereals,Pasta Buttini s.r.l.,Italy,23,434,7807.8,0.0,0
+6,Grandma's Boysenberry Spread,Condiments,Grandma Kelly's Homestead,USA,12,301,7345.0,0.0,0
+22,Gustaf's Knckebrd,Grains/Cereals,PB Knckebrd AB,Sweden ,14,348,7232.4,0.0,0
+34,Sasquatch Ale,Beverages,Bigfoot Breweries,USA,19,506,6678.0,0.0,0
+58,Escargots de Bourgogne,Seafood,Escargots Nouveaux,France,18,534,6664.75,0.0,0
+19,Teatime Chocolate Biscuits,Confections,"Specialty Biscuits, Ltd.",UK,37,723,6159.5,0.0,0
+46,Spegesild,Seafood,Lyngbysild,Denmark,27,548,6144.0,0.0,0
+5,Chef Anton's Gumbo Mix,Condiments,New Orleans Cajun Delights,USA,10,298,5801.15,0.0,1
+13,Konbu,Seafood,Mayumi's,Japan,40,891,5234.4,0.0,0
+54,Tourtire,Meat/Poultry,Ma Maison,Canada,36,755,5121.0,0.0,0
+23,Tunnbrd,Grains/Cereals,PB Knckebrd AB,Sweden ,20,580,4840.2,0.0,0
+24,Guaran Fantstica,Beverages,Refrescos Americanas LTDA,Brazil,51,1125,4782.6,0.0,1
+45,Rogede sild,Seafood,Lyngbysild,Denmark,14,508,4740.5,0.0,0
+47,Zaanse koeken,Confections,Zaanse Snoepfabriek,Netherlands,21,485,4358.6,0.0,0
+73,Rd Kaviar,Seafood,Svensk Sjfda AB,Sweden,14,293,4200.0,0.0,0
+25,NuNuCa Nu-Nougat-Creme,Confections,Heli Swaren GmbH & Co. KG,Germany,18,318,4051.6,0.0,0
+66,Louisiana Hot Spiced Okra,Condiments,New Orleans Cajun Delights,USA,8,239,3519.0,0.0,0
+50,Valkoinen suklaa,Confections,Karkki Oy,Finland,10,235,3510.0,0.0,0
+52,Filo Mix,Grains/Cereals,"G'day, Mate",Australia,29,500,3383.8,0.0,0
+3,Aniseed Syrup,Condiments,Exotic Liquids,UK,12,328,3080.0,0.0,0
+37,Gravad lax,Seafood,Svensk Sjfda AB,Sweden,6,125,3047.2,0.0,0
+74,Longlife Tofu,Produce,Tokyo Traders,Japan,13,297,2566.0,0.0,0
+67,Laughing Lumberjack Lager,Beverages,Bigfoot Breweries,USA,10,184,2562.0,0.0,0
+15,Genen Shouyu,Condiments,Mayumi's,Japan,6,122,1813.5,0.0,0
+33,Geitost,Dairy Products,Norske Meierier,Norway,32,755,1713.5,0.0,0
+48,Chocolade,Confections,Zaanse Snoepfabriek,Netherlands,6,138,1542.75,0.0,0

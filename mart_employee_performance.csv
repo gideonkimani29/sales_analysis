@@ -1,0 +1,10 @@
+employee_id,employee_name,employee_title,total_orders,unique_customers,total_revenue,avg_order_value,avg_days_to_ship
+4,"Peacock, Margaret",Sales Representative,156,75,250187.45,1603.77,8.6
+3,"Leverling, Janet",Sales Representative,127,63,213051.3,1677.57,8.5
+1,"Davolio, Nancy",Sales Representative,123,65,202143.71,1643.44,7.5
+2,"Fuller, Andrew","Vice President, Sales",96,59,177749.26,1851.55,8.2
+7,"King, Robert",Sales Representative,72,45,141295.99,1962.44,8.3
+8,"Callahan, Laura",Inside Sales Coordinator,104,56,133301.03,1281.74,8.6
+9,"Dodsworth, Anne",Sales Representative,43,29,82964.0,1929.4,10.4
+6,"Suyama, Michael",Sales Representative,67,43,78198.1,1167.14,8.5
+5,"Buchanan, Steven",Sales Manager,42,29,75567.75,1799.23,6.8

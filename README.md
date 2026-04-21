@@ -109,7 +109,6 @@ Business-ready aggregations. Intermediate joins are inlined directly due to SQLi
 
 ## Key Findings
 
-> Update this section after running the notebook.
 
 | # | Finding | Track |
 |---|---|---|

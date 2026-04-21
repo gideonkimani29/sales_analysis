@@ -113,11 +113,11 @@ Business-ready aggregations. Intermediate joins are inlined directly due to SQLi
 | # | Finding | Track |
 |---|---|---|
 | 1 | Revenue peaked in **[month/year]**, driven by **[category]** | Sales |
-| 2 | Top 10 customers account for **~X%** of total revenue | Customers |
+| 2 | Top 10 customers account for 616,789.20 of total revenue | Customers |
 | 3 | **X%** of customers are classified as At Risk or Lost | Customers |
-| 4 | **[Product]** is the highest-revenue product; **[Category]** leads by category | Products |
+| 4 | **Cemembert Pierot** is the highest-revenue product; **Dairy**  leads by category | Products |
 | 5 | Discontinued products still contributed **$X** in revenue | Products |
-| 6 | **[Employee]** leads in total revenue; **[Employee]** has the fastest ship time | Employees |
+| 6 | **Peacock, Magaret** leads in total revenue; **Buchanan Steven** has the fastest ship time | Employees |
 | 7 | **[Shipper]** averages the fastest delivery at **X days** | Operations |
 
 ---
